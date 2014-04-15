@@ -1,0 +1,12 @@
+{
+  "name": "OVC",
+  "description": "youtube online video clock",
+  "version": "0.0.0",
+  "homepage": "http://www.onlinevideoclock.com",
+  "private": true,
+  "dependencies": {
+    "angular": "1.2.x",
+    "angular-mocks": "~1.2.15",
+    "bootstrap": "~3.1.1"
+  }
+}
